@@ -9,14 +9,14 @@
   },
   "dependencies": {
     "flow": "0.2.3",
-    "flow-bin": "0.40.0",
-    "immutable": "3.8.1",
-    "react": "16.0.0-alpha.6",
-    "react-native": "0.43.2",
+    "flow-bin": "0.82.0",
+    "immutable": "3.8.2",
+    "react": "16.5.2",
+    "react-native": "0.57.2",
     "react-native-json-tree": "file:.."
   },
   "devDependencies": {
-    "babel-preset-react-native": "1.9.1"
+    "babel-preset-react-native": "4.0.1"
   },
   "jest": {
     "preset": "react-native"
