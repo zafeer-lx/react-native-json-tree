@@ -1,5 +1,7 @@
 # react-native-json-tree
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Dean177/react-native-json-tree.svg)](https://greenkeeper.io/)
+
 React Native JSON Viewer Component, based on [react-json-tree](https://github.com/alexkuz/react-json-tree). Supports [iterable](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Iteration_protocols#iterable) objects, such as [Immutable.js](https://facebook.github.io/immutable-js/).
 
 ![](https://img.shields.io/npm/v/react-native-json-tree.svg)
