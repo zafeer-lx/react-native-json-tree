@@ -126,8 +126,6 @@ const getStylingFromBase16 = (base16Theme) => {
   };
 };
 
-const createStylingFromTheme = createStyling(getStylingFromBase16, {
-  defaultBase16: solarized,
-});
+const createStylingFromTheme = createStyling(getStylingFromBase16);
 
 export default createStylingFromTheme;
